@@ -1,0 +1,1 @@
+# yanzzstore15-web-only
